@@ -6,7 +6,7 @@
 
 ### 运行时数据区域 ￼
 
-![图片](https://raw.githubusercontent.com/sucat1997/JavaSourceLearning/main/img/01.png)
+![图片](https://raw.githubusercontent.com/sucat1997/JavaSourceLearning/main/img/00.png)
 
 #### 程序计数器（Program Counter Register）
 
